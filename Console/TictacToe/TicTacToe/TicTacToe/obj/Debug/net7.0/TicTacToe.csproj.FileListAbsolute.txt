@@ -1,0 +1,14 @@
+/Users/hwan/Desktop/School/3-2/임종관교수님/C#과제/과제1/TicTacToe/TicTacToe/bin/Debug/net7.0/TicTacToe
+/Users/hwan/Desktop/School/3-2/임종관교수님/C#과제/과제1/TicTacToe/TicTacToe/bin/Debug/net7.0/TicTacToe.deps.json
+/Users/hwan/Desktop/School/3-2/임종관교수님/C#과제/과제1/TicTacToe/TicTacToe/bin/Debug/net7.0/TicTacToe.runtimeconfig.json
+/Users/hwan/Desktop/School/3-2/임종관교수님/C#과제/과제1/TicTacToe/TicTacToe/bin/Debug/net7.0/TicTacToe.dll
+/Users/hwan/Desktop/School/3-2/임종관교수님/C#과제/과제1/TicTacToe/TicTacToe/bin/Debug/net7.0/TicTacToe.pdb
+/Users/hwan/Desktop/School/3-2/임종관교수님/C#과제/과제1/TicTacToe/TicTacToe/obj/Debug/net7.0/TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hwan/Desktop/School/3-2/임종관교수님/C#과제/과제1/TicTacToe/TicTacToe/obj/Debug/net7.0/TicTacToe.AssemblyInfoInputs.cache
+/Users/hwan/Desktop/School/3-2/임종관교수님/C#과제/과제1/TicTacToe/TicTacToe/obj/Debug/net7.0/TicTacToe.AssemblyInfo.cs
+/Users/hwan/Desktop/School/3-2/임종관교수님/C#과제/과제1/TicTacToe/TicTacToe/obj/Debug/net7.0/TicTacToe.csproj.CoreCompileInputs.cache
+/Users/hwan/Desktop/School/3-2/임종관교수님/C#과제/과제1/TicTacToe/TicTacToe/obj/Debug/net7.0/TicTacToe.dll
+/Users/hwan/Desktop/School/3-2/임종관교수님/C#과제/과제1/TicTacToe/TicTacToe/obj/Debug/net7.0/refint/TicTacToe.dll
+/Users/hwan/Desktop/School/3-2/임종관교수님/C#과제/과제1/TicTacToe/TicTacToe/obj/Debug/net7.0/TicTacToe.pdb
+/Users/hwan/Desktop/School/3-2/임종관교수님/C#과제/과제1/TicTacToe/TicTacToe/obj/Debug/net7.0/TicTacToe.genruntimeconfig.cache
+/Users/hwan/Desktop/School/3-2/임종관교수님/C#과제/과제1/TicTacToe/TicTacToe/obj/Debug/net7.0/ref/TicTacToe.dll
