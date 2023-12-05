@@ -1,0 +1,12 @@
+C:\Users\hs801\source\repos\Tac\bin\Debug\Tac.exe.config
+C:\Users\hs801\source\repos\Tac\bin\Debug\Tac.exe
+C:\Users\hs801\source\repos\Tac\bin\Debug\Tac.pdb
+C:\Users\hs801\source\repos\Tac\obj\Debug\Tac.csproj.AssemblyReference.cache
+C:\Users\hs801\source\repos\Tac\obj\Debug\Tac.Form1.resources
+C:\Users\hs801\source\repos\Tac\obj\Debug\Tac.Properties.Resources.resources
+C:\Users\hs801\source\repos\Tac\obj\Debug\Tac.csproj.GenerateResource.cache
+C:\Users\hs801\source\repos\Tac\obj\Debug\Tac.csproj.CoreCompileInputs.cache
+C:\Users\hs801\source\repos\Tac\obj\Debug\Tac.exe
+C:\Users\hs801\source\repos\Tac\obj\Debug\Tac.pdb
+C:\Users\hs801\source\repos\Tac\bin\Debug\Nakov.TurtleGraphics.dll
+C:\Users\hs801\source\repos\Tac\obj\Debug\Tac.csproj.CopyComplete
